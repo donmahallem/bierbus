@@ -1,4 +1,5 @@
 @import 'themeColors';
+
 $theme-font: verdana, sans-serif;
 
 body {
@@ -9,7 +10,7 @@ body {
   h1, h2 {
       color: $themeColor-Dark
   }
-  game-root {
+  map-root {
     margin:0px;
     padding:0px;
     position: absolute;
@@ -18,12 +19,6 @@ body {
     bottom:0px;
     right:0px;
     left:0px;
-    canvas{
-        margin:0px;
-        padding:0px;
-        width:100%;
-        display:block;
-        height:100%;
-    }
+    @import "~leaflet/dist/leaflet.css";
   }
 }
