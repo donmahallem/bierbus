@@ -12,7 +12,7 @@
     "test:unit": "npm run test",
     "test:build": "npm run build",
     "test:lint": "npm run lint",
-    "version": "node fetch_stops.js"
+    "version": "node fetch_stops.js && git add ./src/assets/stops.json"
   },
   "keywords": [],
   "author": "",
@@ -26,7 +26,6 @@
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
     "sass-loader": "^7.1.0",
-    "simple-git": "^1.110.0",
     "style-loader": "^0.23.1",
     "ts-loader": "^5.3.3",
     "tslint": "^5.16.0",
