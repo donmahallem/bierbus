@@ -1,4 +1,5 @@
 import * as L from "leaflet";
+import * as stops from "./../assets/stops.json";
 export class QuackGame {
     constructor(private parent: HTMLElement) {
     }
@@ -12,11 +13,10 @@ export class QuackGame {
             maxZoom: 18,
             subdomains: ["a", "b", "c"],
         }).addTo(map);
-        const latlngs: L.LatLngTuple[] = [
-            [45.51, -122.68],
-            [37.77, -122.43],
-            [34.04, -118.2],
-        ];
+        const latlngs: L.LatLngTuple[] = [];
+        for (const st of stops.stops) {
+            latlngs.push([st.latitude / 3600000, st.longitude / 3600000]);
+        }
         const polyline = L.polyline(latlngs, { color: "red" }).addTo(map);
         // zoom the map to the polyline
         map.fitBounds(polyline.getBounds());
