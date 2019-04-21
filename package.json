@@ -1,5 +1,5 @@
 {
-  "name": "bierbus",
+  "name": "@donmahallem/bierbus",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "test:unit": "npm run test",
     "test:build": "npm run build",
     "test:lint": "npm run lint",
-    "version": "node fetch_stops.js && git add ./src/assets/stops.json"
+    "prepare": "node fetch_stops.js",
   },
   "keywords": [],
   "author": "",
