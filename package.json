@@ -12,7 +12,7 @@
     "test:unit": "npm run test",
     "test:build": "npm run build",
     "test:lint": "npm run lint",
-    "prepare": "node fetch_stops.js",
+    "prepare": "node fetch_stops.js"
   },
   "keywords": [],
   "author": "",
