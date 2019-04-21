@@ -1,0 +1,4746 @@
+{"stops": [
+  {
+    "category": "bus",
+    "id": "60837103646277812",
+    "latitude": 195559371,
+    "longitude": 36220315,
+    "name": "Malmöweg",
+    "shortName": "363"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277821",
+    "latitude": 195559131,
+    "longitude": 36186702,
+    "name": "Kurt-Schumacher-Platz",
+    "shortName": "372"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277828",
+    "latitude": 195535962,
+    "longitude": 36108512,
+    "name": "Melsdorf",
+    "shortName": "379"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281185",
+    "latitude": 195526065,
+    "longitude": 36111708,
+    "name": "Bahnhof Melsdorf",
+    "shortName": "226"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277825",
+    "latitude": 195524636,
+    "longitude": 36170339,
+    "name": "Roskilder Weg",
+    "shortName": "376"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277829",
+    "latitude": 195538490,
+    "longitude": 36126993,
+    "name": "Schmiedekoppel",
+    "shortName": "380"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277827",
+    "latitude": 195543870,
+    "longitude": 36119745,
+    "name": "Schneiderkoppel",
+    "shortName": "378"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278275",
+    "latitude": 195551239,
+    "longitude": 36174668,
+    "name": "Schule am Heidenberger Teich",
+    "shortName": "7020"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277826",
+    "latitude": 195533685,
+    "longitude": 36162373,
+    "name": "Seelandweg",
+    "shortName": "377"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277819",
+    "latitude": 195538736,
+    "longitude": 36173089,
+    "name": "Aalborgring",
+    "shortName": "370"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277823",
+    "latitude": 195537221,
+    "longitude": 36173290,
+    "name": "Jütlandring",
+    "shortName": "374"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277662",
+    "latitude": 195539721,
+    "longitude": 36437997,
+    "name": "Harmsstraße",
+    "shortName": "51"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278029",
+    "latitude": 195244404,
+    "longitude": 36260410,
+    "name": "Gartenstraße",
+    "shortName": "5026"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278030",
+    "latitude": 195256336,
+    "longitude": 36265443,
+    "name": "Butenschönsredder",
+    "shortName": "5027"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278031",
+    "latitude": 195261242,
+    "longitude": 36268529,
+    "name": "Schönhorster Weg",
+    "shortName": "5028"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278032",
+    "latitude": 195273471,
+    "longitude": 36248838,
+    "name": "Schurkamp",
+    "shortName": "5029"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278084",
+    "latitude": 195284831,
+    "longitude": 36250831,
+    "name": "Hasselbusch",
+    "shortName": "5085"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281117",
+    "latitude": 195255426,
+    "longitude": 36245160,
+    "name": "Alter Schulweg",
+    "shortName": "6002"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281118",
+    "latitude": 195264480,
+    "longitude": 36268986,
+    "name": "Bokseer Weg",
+    "shortName": "6003"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281119",
+    "latitude": 195264090,
+    "longitude": 36245430,
+    "name": "Friedhof",
+    "shortName": "6004"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278155",
+    "latitude": 195260295,
+    "longitude": 36202363,
+    "name": "Heinrich-Hertz-Straße",
+    "shortName": "5101"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278026",
+    "latitude": 195250457,
+    "longitude": 36215011,
+    "name": "Plambekskamp",
+    "shortName": "5023"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278027",
+    "latitude": 195246531,
+    "longitude": 36230511,
+    "name": "Heimstättenweg",
+    "shortName": "5024"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278028",
+    "latitude": 195245595,
+    "longitude": 36238470,
+    "name": "Böhnhusener Weg",
+    "shortName": "5025"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278025",
+    "latitude": 195257969,
+    "longitude": 36228029,
+    "name": "Hegereiterweg",
+    "shortName": "5022"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281116",
+    "latitude": 195261550,
+    "longitude": 36232678,
+    "name": "Schlotfeldtsberg",
+    "shortName": "6000"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278018",
+    "latitude": 195258912,
+    "longitude": 36235086,
+    "name": "Rosenberg",
+    "shortName": "5014"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278092",
+    "latitude": 195293097,
+    "longitude": 36179456,
+    "name": "Batterieweg",
+    "shortName": "5094"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278039",
+    "latitude": 195290064,
+    "longitude": 36178059,
+    "name": "Konrad-Zuse-Ring",
+    "shortName": "5036"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278016",
+    "latitude": 195275485,
+    "longitude": 36227328,
+    "name": "Post, Flintbek",
+    "shortName": "5011"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278021",
+    "latitude": 195280584,
+    "longitude": 36228348,
+    "name": "Bahnhof, Freeweid",
+    "shortName": "5018"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278154",
+    "latitude": 195267647,
+    "longitude": 36211429,
+    "name": "Eiderkamp",
+    "shortName": "5089"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278311",
+    "latitude": 195269659,
+    "longitude": 36216461,
+    "name": "Parkplatz, Flintbek",
+    "shortName": "9998"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280955",
+    "latitude": 195269648,
+    "longitude": 36216476,
+    "name": "Lassenweg",
+    "shortName": "5013"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278019",
+    "latitude": 195269196,
+    "longitude": 36217520,
+    "name": "Parkplatz, Flintbek",
+    "shortName": "5015"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278022",
+    "latitude": 195294420,
+    "longitude": 36225954,
+    "name": "Eidertal",
+    "shortName": "5019"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278040",
+    "latitude": 195359255,
+    "longitude": 36244219,
+    "name": "Kolberg",
+    "shortName": "5037"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278088",
+    "latitude": 195312531,
+    "longitude": 36202356,
+    "name": "Siedlung ,Flintbek (L 318)",
+    "shortName": "5090"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278024",
+    "latitude": 195313744,
+    "longitude": 36207388,
+    "name": "Siedlung, Flintbek",
+    "shortName": "5021"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278023",
+    "latitude": 195305363,
+    "longitude": 36215501,
+    "name": "Effland",
+    "shortName": "5020"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278033",
+    "latitude": 195340032,
+    "longitude": 36227394,
+    "name": "Bärenkrug",
+    "shortName": "5030"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278034",
+    "latitude": 195351155,
+    "longitude": 36236318,
+    "name": "Catharinenberg",
+    "shortName": "5031"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278050",
+    "latitude": 195407572,
+    "longitude": 36238214,
+    "name": "Wollbergsredder",
+    "shortName": "5048"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278037",
+    "latitude": 195391483,
+    "longitude": 36262000,
+    "name": "Osterberg",
+    "shortName": "5034"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278035",
+    "latitude": 195391928,
+    "longitude": 36275264,
+    "name": "Freilichtmuseum",
+    "shortName": "5032"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278086",
+    "latitude": 195416385,
+    "longitude": 36261507,
+    "name": "Rammseer Weg",
+    "shortName": "5087"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278041",
+    "latitude": 195412828,
+    "longitude": 36287770,
+    "name": "Mielkendorfer Weg",
+    "shortName": "5038"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278036",
+    "latitude": 195402175,
+    "longitude": 36283242,
+    "name": "Alte Ziegelei",
+    "shortName": "5033"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278085",
+    "latitude": 195413788,
+    "longitude": 36283445,
+    "name": "Verwaltung, Rammsee",
+    "shortName": "5086"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278038",
+    "latitude": 195425246,
+    "longitude": 36300609,
+    "name": "Schulenhof",
+    "shortName": "5035"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277882",
+    "latitude": 195391572,
+    "longitude": 36363075,
+    "name": "Meimersdorf, Am Reben",
+    "shortName": "558"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278145",
+    "latitude": 195407393,
+    "longitude": 36350064,
+    "name": "Meimersdorfer Weg",
+    "shortName": "561"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277881",
+    "latitude": 195387403,
+    "longitude": 36378472,
+    "name": "Kleinflintbeker Weg",
+    "shortName": "557"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277880",
+    "latitude": 195389142,
+    "longitude": 36392823,
+    "name": "Am Dorfplatz",
+    "shortName": "556"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277879",
+    "latitude": 195404337,
+    "longitude": 36409527,
+    "name": "Wendenweg",
+    "shortName": "555"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281056",
+    "latitude": 195412620,
+    "longitude": 36420819,
+    "name": "Am Biberbach",
+    "shortName": "74"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277895",
+    "latitude": 195418060,
+    "longitude": 36433906,
+    "name": "Meimersdorf, Schule",
+    "shortName": "589"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277810",
+    "latitude": 195540192,
+    "longitude": 36241882,
+    "name": "Russeer Weg",
+    "shortName": "361"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277843",
+    "latitude": 195487017,
+    "longitude": 36241546,
+    "name": "Russee Kirche",
+    "shortName": "458"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277862",
+    "latitude": 195458405,
+    "longitude": 36225145,
+    "name": "Ihlseeweg",
+    "shortName": "509"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277864",
+    "latitude": 195444313,
+    "longitude": 36227522,
+    "name": "Am Voßberg",
+    "shortName": "511"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277863",
+    "latitude": 195449979,
+    "longitude": 36216019,
+    "name": "Tannenholz",
+    "shortName": "510"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277845",
+    "latitude": 195489414,
+    "longitude": 36188327,
+    "name": "Schiefe Horn",
+    "shortName": "460"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277844",
+    "latitude": 195484889,
+    "longitude": 36212626,
+    "name": "Ihlkatenweg",
+    "shortName": "459"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277865",
+    "latitude": 195436790,
+    "longitude": 36262670,
+    "name": "Eiderbad",
+    "shortName": "512"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277871",
+    "latitude": 195460486,
+    "longitude": 36252777,
+    "name": "Pudelhütte",
+    "shortName": "518"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277866",
+    "latitude": 195446950,
+    "longitude": 36289364,
+    "name": "Wiepenkrog",
+    "shortName": "513"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280984",
+    "latitude": 195454500,
+    "longitude": 36303500,
+    "name": "Uwe-Jens-Lornsen-Schule",
+    "shortName": "7059"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277860",
+    "latitude": 195455699,
+    "longitude": 36302728,
+    "name": "Speckenbeker Weg",
+    "shortName": "507"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278292",
+    "latitude": 195492850,
+    "longitude": 36243884,
+    "name": "Grundschule Russee",
+    "shortName": "7037"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277861",
+    "latitude": 195461658,
+    "longitude": 36271366,
+    "name": "Am Hain",
+    "shortName": "508"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277849",
+    "latitude": 195481370,
+    "longitude": 36278858,
+    "name": "Rutkamp",
+    "shortName": "466"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277852",
+    "latitude": 195490661,
+    "longitude": 36279512,
+    "name": "Redderkamp",
+    "shortName": "469"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277842",
+    "latitude": 195479377,
+    "longitude": 36306237,
+    "name": "Strucksdiek",
+    "shortName": "455"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277824",
+    "latitude": 195535083,
+    "longitude": 36179989,
+    "name": "Odensestraße",
+    "shortName": "375"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277818",
+    "latitude": 195542053,
+    "longitude": 36185010,
+    "name": "Max-Tau-Schule",
+    "shortName": "369"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278287",
+    "latitude": 195541882,
+    "longitude": 36184860,
+    "name": "Max-Tau-Schule",
+    "shortName": "7032"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277817",
+    "latitude": 195541655,
+    "longitude": 36203395,
+    "name": "Königsförder Weg",
+    "shortName": "368"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277822",
+    "latitude": 195550178,
+    "longitude": 36180915,
+    "name": "Stavangerstraße",
+    "shortName": "373"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277816",
+    "latitude": 195541440,
+    "longitude": 36222552,
+    "name": "Alt Mettenhof",
+    "shortName": "367"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277811",
+    "latitude": 195550196,
+    "longitude": 36234659,
+    "name": "Am Wohld",
+    "shortName": "362"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277847",
+    "latitude": 195514165,
+    "longitude": 36256997,
+    "name": "Köpenicker Straße",
+    "shortName": "462"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277848",
+    "latitude": 195502913,
+    "longitude": 36248263,
+    "name": "Hofkoppel",
+    "shortName": "464"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277846",
+    "latitude": 195521540,
+    "longitude": 36245668,
+    "name": "Melsdorfer Feldweg",
+    "shortName": "461"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277851",
+    "latitude": 195510916,
+    "longitude": 36271397,
+    "name": "Dahmeweg",
+    "shortName": "468"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277850",
+    "latitude": 195500411,
+    "longitude": 36279301,
+    "name": "Gatowweg",
+    "shortName": "467"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277809",
+    "latitude": 195543674,
+    "longitude": 36256455,
+    "name": "Waldesruh",
+    "shortName": "360"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278274",
+    "latitude": 195533500,
+    "longitude": 36263500,
+    "name": "Gorch-Fock-Schule",
+    "shortName": "7019"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277808",
+    "latitude": 195550427,
+    "longitude": 36276015,
+    "name": "Melsdorfer Straße",
+    "shortName": "359"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277832",
+    "latitude": 195512387,
+    "longitude": 36371721,
+    "name": "Stadtrade",
+    "shortName": "402"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278144",
+    "latitude": 195458295,
+    "longitude": 36366317,
+    "name": "Schönow-Haus",
+    "shortName": "520"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277840",
+    "latitude": 195482949,
+    "longitude": 36339555,
+    "name": "Hasseer Straße / Prey",
+    "shortName": "453"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277870",
+    "latitude": 195443030,
+    "longitude": 36325506,
+    "name": "Eiderbrücke",
+    "shortName": "517"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277872",
+    "latitude": 195443753,
+    "longitude": 36325542,
+    "name": "Schulensee",
+    "shortName": "519"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277869",
+    "latitude": 195454672,
+    "longitude": 36358787,
+    "name": "Hamburger Baum",
+    "shortName": "516"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277859",
+    "latitude": 195466057,
+    "longitude": 36318345,
+    "name": "Seekoppelweg",
+    "shortName": "506"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281162",
+    "latitude": 195474357,
+    "longitude": 36314529,
+    "name": "Marienlust, Ersatz",
+    "shortName": "457"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277841",
+    "latitude": 195478923,
+    "longitude": 36323031,
+    "name": "Marienlust",
+    "shortName": "454"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277839",
+    "latitude": 195493111,
+    "longitude": 36368008,
+    "name": "Streitkamp",
+    "shortName": "452"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278297",
+    "latitude": 195492821,
+    "longitude": 36367464,
+    "name": "Theodor-Heuss-Schule",
+    "shortName": "7042"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280983",
+    "latitude": 195492821,
+    "longitude": 36367464,
+    "name": "Gemeinschaftsschule Hassee",
+    "shortName": "7049"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277853",
+    "latitude": 195492744,
+    "longitude": 36404703,
+    "name": "Diesterwegstraße",
+    "shortName": "500"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277858",
+    "latitude": 195456776,
+    "longitude": 36409275,
+    "name": "Krummbogen",
+    "shortName": "505"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277868",
+    "latitude": 195470651,
+    "longitude": 36377960,
+    "name": "Petersburger Weg",
+    "shortName": "515"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277867",
+    "latitude": 195486203,
+    "longitude": 36392775,
+    "name": "Wulfsbrook",
+    "shortName": "514"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277837",
+    "latitude": 195492510,
+    "longitude": 36392928,
+    "name": "Schleswiger Straße",
+    "shortName": "449"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277857",
+    "latitude": 195464086,
+    "longitude": 36418494,
+    "name": "Holunderbusch",
+    "shortName": "504"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277856",
+    "latitude": 195468469,
+    "longitude": 36426759,
+    "name": "Hasenholz",
+    "shortName": "503"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277855",
+    "latitude": 195477873,
+    "longitude": 36420971,
+    "name": "Pappelweg",
+    "shortName": "502"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277854",
+    "latitude": 195488446,
+    "longitude": 36406779,
+    "name": "Fröbelstraße",
+    "shortName": "501"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277835",
+    "latitude": 195523420,
+    "longitude": 36325966,
+    "name": "Kolonnenweg",
+    "shortName": "405"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281125",
+    "latitude": 195509154,
+    "longitude": 36359610,
+    "name": "Altenrade",
+    "shortName": "249"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277833",
+    "latitude": 195502961,
+    "longitude": 36348239,
+    "name": "Uhlenkrog",
+    "shortName": "403"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277834",
+    "latitude": 195511692,
+    "longitude": 36346320,
+    "name": "Bärenkrog",
+    "shortName": "404"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278150",
+    "latitude": 195526599,
+    "longitude": 36362364,
+    "name": "CITTI-Park",
+    "shortName": "1127"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277807",
+    "latitude": 195550858,
+    "longitude": 36311248,
+    "name": "Waldeck",
+    "shortName": "358"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277806",
+    "latitude": 195551239,
+    "longitude": 36334286,
+    "name": "Hasselrade",
+    "shortName": "357"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278269",
+    "latitude": 195551817,
+    "longitude": 36332983,
+    "name": "Freie Waldorfschule",
+    "shortName": "7014"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277805",
+    "latitude": 195549504,
+    "longitude": 36357765,
+    "name": "Mühlenweg",
+    "shortName": "356"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281064",
+    "latitude": 195513662,
+    "longitude": 36390084,
+    "name": "plaza",
+    "shortName": "786"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277838",
+    "latitude": 195498508,
+    "longitude": 36384828,
+    "name": "Gärtnerstraße",
+    "shortName": "450"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277836",
+    "latitude": 195503484,
+    "longitude": 36391760,
+    "name": "Christianistraße",
+    "shortName": "408"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277796",
+    "latitude": 195522876,
+    "longitude": 36392903,
+    "name": "Saarbrückenstraße",
+    "shortName": "346"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277831",
+    "latitude": 195524510,
+    "longitude": 36401309,
+    "name": "Lantziusstraße",
+    "shortName": "401"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277665",
+    "latitude": 195502130,
+    "longitude": 36436436,
+    "name": "Krusenrotter Weg",
+    "shortName": "54"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277666",
+    "latitude": 195498340,
+    "longitude": 36421885,
+    "name": "Waldwiese",
+    "shortName": "55"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277873",
+    "latitude": 195519539,
+    "longitude": 36419555,
+    "name": "Winterbeker Weg",
+    "shortName": "530"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278142",
+    "latitude": 195542287,
+    "longitude": 36399291,
+    "name": "Berufliche Schulen",
+    "shortName": "345"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278304",
+    "latitude": 195541452,
+    "longitude": 36399852,
+    "name": "RBZ 1 Berufliche Schulen",
+    "shortName": "7052"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278143",
+    "latitude": 195528911,
+    "longitude": 36393843,
+    "name": "IKEA",
+    "shortName": "350"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277804",
+    "latitude": 195554492,
+    "longitude": 36395973,
+    "name": "Virchowstraße",
+    "shortName": "355"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277797",
+    "latitude": 195557315,
+    "longitude": 36400980,
+    "name": "Hasseldieksdammer Weg",
+    "shortName": "347"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278310",
+    "latitude": 195557260,
+    "longitude": 36401065,
+    "name": "Hasseldieksdammer Weg",
+    "shortName": "7058"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281065",
+    "latitude": 195545231,
+    "longitude": 36428115,
+    "name": "Käthe-Kollwitz-Schule",
+    "shortName": "851"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278151",
+    "latitude": 195542520,
+    "longitude": 36415126,
+    "name": "Schützenwall/Boiestraße",
+    "shortName": "1129"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277830",
+    "latitude": 195533760,
+    "longitude": 36425161,
+    "name": "Südfriedhof",
+    "shortName": "400"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277803",
+    "latitude": 195557767,
+    "longitude": 36412747,
+    "name": "Metzstraße",
+    "shortName": "354"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277894",
+    "latitude": 195352699,
+    "longitude": 36525061,
+    "name": "Moorsee, Dorfplatz",
+    "shortName": "588"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277893",
+    "latitude": 195342660,
+    "longitude": 36545859,
+    "name": "Schlüsbek",
+    "shortName": "587"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277892",
+    "latitude": 195353465,
+    "longitude": 36540691,
+    "name": "Moorsee",
+    "shortName": "586"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277878",
+    "latitude": 195416487,
+    "longitude": 36454662,
+    "name": "Neu Meimersdorf",
+    "shortName": "554"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281068",
+    "latitude": 195408879,
+    "longitude": 36481179,
+    "name": "Odbarsweg",
+    "shortName": "9"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281058",
+    "latitude": 195398322,
+    "longitude": 36488169,
+    "name": "KN Druckzentrum",
+    "shortName": "833"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277883",
+    "latitude": 195406321,
+    "longitude": 36499324,
+    "name": "Im Saal",
+    "shortName": "559"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278255",
+    "latitude": 195420107,
+    "longitude": 36473613,
+    "name": "Grot Steenbusch",
+    "shortName": "1138"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278262",
+    "latitude": 195412500,
+    "longitude": 36493500,
+    "name": "Wellsee, WaD",
+    "shortName": "7007"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277884",
+    "latitude": 195422026,
+    "longitude": 36488456,
+    "name": "Barkauer Straße",
+    "shortName": "560"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277887",
+    "latitude": 195428201,
+    "longitude": 36501000,
+    "name": "Fettberg",
+    "shortName": "574"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281086",
+    "latitude": 195387365,
+    "longitude": 36539263,
+    "name": "Schlachthof",
+    "shortName": "562"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277891",
+    "latitude": 195392397,
+    "longitude": 36545011,
+    "name": "IG  Wellsee",
+    "shortName": "585"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281070",
+    "latitude": 195401827,
+    "longitude": 36510858,
+    "name": "Braunstraße",
+    "shortName": "18"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277889",
+    "latitude": 195409036,
+    "longitude": 36524769,
+    "name": "Liebigstraße",
+    "shortName": "583"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277890",
+    "latitude": 195400366,
+    "longitude": 36538130,
+    "name": "Borsigstraße",
+    "shortName": "584"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277903",
+    "latitude": 195402467,
+    "longitude": 36565280,
+    "name": "Edisonstraße",
+    "shortName": "608"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277902",
+    "latitude": 195424559,
+    "longitude": 36556753,
+    "name": "Bunsenstr.",
+    "shortName": "606"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277905",
+    "latitude": 195370997,
+    "longitude": 36634973,
+    "name": "Götenhof",
+    "shortName": "610"
+  },
+  {
+    "category": "other",
+    "id": "60837103646277907",
+    "latitude": 195354240,
+    "longitude": 36618886,
+    "name": "Rönne, Goldberg",
+    "shortName": "612"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277906",
+    "latitude": 195361687,
+    "longitude": 36640683,
+    "name": "Rönne, Dorf",
+    "shortName": "611"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277904",
+    "latitude": 195384017,
+    "longitude": 36613846,
+    "name": "Beekkate",
+    "shortName": "609"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281094",
+    "latitude": 195403925,
+    "longitude": 36582754,
+    "name": "Marie-Curie-Straße",
+    "shortName": "613"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277909",
+    "latitude": 195401112,
+    "longitude": 36594570,
+    "name": "Marconistraße",
+    "shortName": "615"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277908",
+    "latitude": 195423383,
+    "longitude": 36580049,
+    "name": "Kreisauer Straße",
+    "shortName": "614"
+  },
+  {
+    "category": "other",
+    "id": "60837103646277901",
+    "latitude": 195417019,
+    "longitude": 36612022,
+    "name": "Pötterweg",
+    "shortName": "605"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277929",
+    "latitude": 195427050,
+    "longitude": 36662090,
+    "name": "Pottberg",
+    "shortName": "685"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277930",
+    "latitude": 195419074,
+    "longitude": 36676388,
+    "name": "Pottbergkrug",
+    "shortName": "686"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277931",
+    "latitude": 195419380,
+    "longitude": 36697350,
+    "name": "Berchtesgadener Straße",
+    "shortName": "687"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281191",
+    "latitude": 195555210,
+    "longitude": 36502572,
+    "name": "Schwedenkai",
+    "shortName": "2"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277875",
+    "latitude": 195449131,
+    "longitude": 36465060,
+    "name": "Karlsburg",
+    "shortName": "551"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277885",
+    "latitude": 195436993,
+    "longitude": 36484290,
+    "name": "Lindenhain",
+    "shortName": "569"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277876",
+    "latitude": 195431849,
+    "longitude": 36472860,
+    "name": "Kieler Weg",
+    "shortName": "552"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277886",
+    "latitude": 195436866,
+    "longitude": 36502214,
+    "name": "Reesenberg",
+    "shortName": "572"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277874",
+    "latitude": 195480963,
+    "longitude": 36453185,
+    "name": "Spolertstraße",
+    "shortName": "550"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280974",
+    "latitude": 195491322,
+    "longitude": 36464994,
+    "name": "Barkauer Kreuz",
+    "shortName": "661"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278135",
+    "latitude": 195486746,
+    "longitude": 36490204,
+    "name": "Betriebshof Vineta (Busbetriebsgesellsch",
+    "shortName": "4097"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281158",
+    "latitude": 195489762,
+    "longitude": 36494310,
+    "name": "Diedrichstraße C",
+    "shortName": "62"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281166",
+    "latitude": 195488436,
+    "longitude": 36490614,
+    "name": "Diedrichstraße  D",
+    "shortName": "64"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277668",
+    "latitude": 195491188,
+    "longitude": 36491158,
+    "name": "Diedrichstraße A",
+    "shortName": "61"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278284",
+    "latitude": 195428753,
+    "longitude": 36510805,
+    "name": "Grundschule Kronsburg",
+    "shortName": "7029"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277888",
+    "latitude": 195429062,
+    "longitude": 36516201,
+    "name": "Kronsburg",
+    "shortName": "575"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281101",
+    "latitude": 195429762,
+    "longitude": 36556938,
+    "name": "Tresckowweg",
+    "shortName": "5106"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281100",
+    "latitude": 195439056,
+    "longitude": 36558522,
+    "name": "Julius-Leber-Straße",
+    "shortName": "5105"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277898",
+    "latitude": 195452361,
+    "longitude": 36565528,
+    "name": "Hubertus",
+    "shortName": "602"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277897",
+    "latitude": 195458908,
+    "longitude": 36553338,
+    "name": "Alte Siedlung",
+    "shortName": "601"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277669",
+    "latitude": 195485558,
+    "longitude": 36519622,
+    "name": "Ostring",
+    "shortName": "63"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277896",
+    "latitude": 195472067,
+    "longitude": 36542581,
+    "name": "T Ü V",
+    "shortName": "600"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277667",
+    "latitude": 195496837,
+    "longitude": 36450885,
+    "name": "Stormarnstraße",
+    "shortName": "60"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277664",
+    "latitude": 195509183,
+    "longitude": 36449498,
+    "name": "Rondeel",
+    "shortName": "53"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277663",
+    "latitude": 195520074,
+    "longitude": 36460663,
+    "name": "Hummelwiese",
+    "shortName": "52"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281076",
+    "latitude": 195503461,
+    "longitude": 36486269,
+    "name": "Schwedendamm",
+    "shortName": "139"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281077",
+    "latitude": 195515460,
+    "longitude": 36472493,
+    "name": "Adolf-Westphal-Straße",
+    "shortName": "140"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277682",
+    "latitude": 195515217,
+    "longitude": 36485213,
+    "name": "Gablenzstraße",
+    "shortName": "95"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277674",
+    "latitude": 195517452,
+    "longitude": 36500407,
+    "name": "KVG - Btf. Werftstraße C",
+    "shortName": "80"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277673",
+    "latitude": 195511983,
+    "longitude": 36498612,
+    "name": "KVG - Verw. Werftstr. B",
+    "shortName": "79"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281160",
+    "latitude": 195512184,
+    "longitude": 36498450,
+    "name": "KVG - Verw. Werftstr. D",
+    "shortName": "77"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281161",
+    "latitude": 195517698,
+    "longitude": 36499614,
+    "name": "KVG - Btf. Werftstraße A",
+    "shortName": "78"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281159",
+    "latitude": 195514824,
+    "longitude": 36500442,
+    "name": "KVG - Btf. Werftstr.  E",
+    "shortName": "67"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278156",
+    "latitude": 195533182,
+    "longitude": 36470625,
+    "name": "Hauptbahnhof  B3",
+    "shortName": "9008"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277661",
+    "latitude": 195541039,
+    "longitude": 36449359,
+    "name": "Kirchhofallee",
+    "shortName": "50"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277660",
+    "latitude": 195549853,
+    "longitude": 36441646,
+    "name": "Adelheidstraße",
+    "shortName": "42"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277659",
+    "latitude": 195555226,
+    "longitude": 36457736,
+    "name": "Exerzierplatz",
+    "shortName": "41"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277779",
+    "latitude": 195558577,
+    "longitude": 36461121,
+    "name": "Dammstraße",
+    "shortName": "265"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280959",
+    "latitude": 195534714,
+    "longitude": 36472344,
+    "name": "Hauptbahnhof  A1",
+    "shortName": "9001"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280994",
+    "latitude": 195533100,
+    "longitude": 36471240,
+    "name": "Hauptbahnhof  A2",
+    "shortName": "9002"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278124",
+    "latitude": 195537533,
+    "longitude": 36472091,
+    "name": "Hauptbahnhof  C2",
+    "shortName": "8002"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278126",
+    "latitude": 195536933,
+    "longitude": 36472185,
+    "name": "Hauptbahnhof  D2",
+    "shortName": "8005"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278128",
+    "latitude": 195538590,
+    "longitude": 36472752,
+    "name": "Hauptbahnhof  C3",
+    "shortName": "8008"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278157",
+    "latitude": 195535249,
+    "longitude": 36472052,
+    "name": "Hauptbahnhof  B2",
+    "shortName": "9009"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278123",
+    "latitude": 195536057,
+    "longitude": 36471407,
+    "name": "Hauptbahnhof  C1",
+    "shortName": "8001"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278125",
+    "latitude": 195535944,
+    "longitude": 36471493,
+    "name": "Hauptbahnhof  D1",
+    "shortName": "8004"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278127",
+    "latitude": 195538374,
+    "longitude": 36473217,
+    "name": "Hauptbahnhof  D3",
+    "shortName": "8007"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278132",
+    "latitude": 195537208,
+    "longitude": 36473552,
+    "name": "Hauptbahnhof  B1",
+    "shortName": "9004"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277646",
+    "latitude": 195548234,
+    "longitude": 36481460,
+    "name": "Andreas-Gayk-Straße  C",
+    "shortName": "20"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278141",
+    "latitude": 195550110,
+    "longitude": 36483183,
+    "name": "Andreas-Gayk-Straße  D",
+    "shortName": "120"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278149",
+    "latitude": 195548409,
+    "longitude": 36482395,
+    "name": "Andreas-Gayk-Straße  B",
+    "shortName": "1120"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278153",
+    "latitude": 195548363,
+    "longitude": 36482825,
+    "name": "Andreas-Gayk-Straße  A",
+    "shortName": "2120"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277658",
+    "latitude": 195547587,
+    "longitude": 36475043,
+    "name": "Ziegelteich",
+    "shortName": "40"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277645",
+    "latitude": 195559530,
+    "longitude": 36492310,
+    "name": "Holstenbrücke  C",
+    "shortName": "17"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277639",
+    "latitude": 195557999,
+    "longitude": 36499636,
+    "name": "Bootshafen",
+    "shortName": "10"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277672",
+    "latitude": 195504942,
+    "longitude": 36536946,
+    "name": "Preetzer Straße/Ostring",
+    "shortName": "73"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277670",
+    "latitude": 195518994,
+    "longitude": 36519970,
+    "name": "Karlstal",
+    "shortName": "68"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277671",
+    "latitude": 195505691,
+    "longitude": 36516671,
+    "name": "Räucherei",
+    "shortName": "71"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277675",
+    "latitude": 195517232,
+    "longitude": 36550038,
+    "name": "Stoschstraße",
+    "shortName": "82"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278256",
+    "latitude": 195527831,
+    "longitude": 36514723,
+    "name": "Hörnbad",
+    "shortName": "7001"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277677",
+    "latitude": 195538274,
+    "longitude": 36516845,
+    "name": "Norwegenkai",
+    "shortName": "90"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277676",
+    "latitude": 195531617,
+    "longitude": 36524820,
+    "name": "Kieler Straße",
+    "shortName": "83"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277678",
+    "latitude": 195533055,
+    "longitude": 36535730,
+    "name": "Augustenstraße",
+    "shortName": "91"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277679",
+    "latitude": 195538592,
+    "longitude": 36543437,
+    "name": "H D W",
+    "shortName": "92"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277913",
+    "latitude": 195467113,
+    "longitude": 36635282,
+    "name": "Dornbusch",
+    "shortName": "653"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277919",
+    "latitude": 195502805,
+    "longitude": 36635490,
+    "name": "Tröndelweg",
+    "shortName": "659"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277920",
+    "latitude": 195494305,
+    "longitude": 36636661,
+    "name": "Gerstenkamp",
+    "shortName": "660"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277899",
+    "latitude": 195450279,
+    "longitude": 36584685,
+    "name": "Buschkoppel",
+    "shortName": "603"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281055",
+    "latitude": 195444363,
+    "longitude": 36571548,
+    "name": "Sportplatz, Wellsee",
+    "shortName": "72"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281163",
+    "latitude": 195438746,
+    "longitude": 36580077,
+    "name": "Theodor-Steltzer-Weg",
+    "shortName": "626"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281054",
+    "latitude": 195444843,
+    "longitude": 36600526,
+    "name": "Kölenberg",
+    "shortName": "70"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277900",
+    "latitude": 195435198,
+    "longitude": 36609182,
+    "name": "Schoolkamp",
+    "shortName": "604"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281091",
+    "latitude": 195460005,
+    "longitude": 36627630,
+    "name": "Dorfstraße",
+    "shortName": "26"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277911",
+    "latitude": 195484790,
+    "longitude": 36592591,
+    "name": "Sophienhöhe",
+    "shortName": "651"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277912",
+    "latitude": 195471078,
+    "longitude": 36614470,
+    "name": "Villacher Straße",
+    "shortName": "652"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278286",
+    "latitude": 195464803,
+    "longitude": 36627287,
+    "name": "Matthias-Claudius-Schule",
+    "shortName": "7031"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278152",
+    "latitude": 195474714,
+    "longitude": 36631644,
+    "name": "Nelkenweg",
+    "shortName": "2003"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281087",
+    "latitude": 195434277,
+    "longitude": 36654918,
+    "name": "Bahnhof Elmschenhagen",
+    "shortName": "684"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277924",
+    "latitude": 195442589,
+    "longitude": 36657857,
+    "name": "Reichenberger Allee",
+    "shortName": "672"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281095",
+    "latitude": 195450898,
+    "longitude": 36644512,
+    "name": "Friedhof, Elmschenhagen",
+    "shortName": "665"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281093",
+    "latitude": 195460719,
+    "longitude": 36660785,
+    "name": "Bebelplatz",
+    "shortName": "290"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277925",
+    "latitude": 195437506,
+    "longitude": 36676845,
+    "name": "Illerweg",
+    "shortName": "674"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277926",
+    "latitude": 195440334,
+    "longitude": 36698773,
+    "name": "Isarweg",
+    "shortName": "675"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277923",
+    "latitude": 195454292,
+    "longitude": 36668278,
+    "name": "Teplitzer Allee",
+    "shortName": "671"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277928",
+    "latitude": 195450223,
+    "longitude": 36689405,
+    "name": "Schulzentrum Elmschenhagen",
+    "shortName": "677"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278264",
+    "latitude": 195449927,
+    "longitude": 36689083,
+    "name": "Gymnasium  Elmschenhagen",
+    "shortName": "7009"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277918",
+    "latitude": 195484592,
+    "longitude": 36651078,
+    "name": "Weinberg",
+    "shortName": "658"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278278",
+    "latitude": 195484789,
+    "longitude": 36655542,
+    "name": "Hermann-Löns-Schule",
+    "shortName": "7023"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277914",
+    "latitude": 195465666,
+    "longitude": 36658402,
+    "name": "Wiener Allee",
+    "shortName": "654"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277917",
+    "latitude": 195472338,
+    "longitude": 36661275,
+    "name": "Andreas-Hofer-Platz",
+    "shortName": "657"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277915",
+    "latitude": 195465672,
+    "longitude": 36677022,
+    "name": "Toweddern",
+    "shortName": "655"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277936",
+    "latitude": 195533597,
+    "longitude": 36599807,
+    "name": "Hollmannstraße",
+    "shortName": "702"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277910",
+    "latitude": 195503761,
+    "longitude": 36570650,
+    "name": "Am Langsee",
+    "shortName": "650"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277922",
+    "latitude": 195504327,
+    "longitude": 36588177,
+    "name": "Geschwister-Scholl-Straße",
+    "shortName": "664"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278307",
+    "latitude": 195512510,
+    "longitude": 36585450,
+    "name": "Hans-Geiger-Gymnasium",
+    "shortName": "7055"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278146",
+    "latitude": 195512668,
+    "longitude": 36585248,
+    "name": "Hans-Geiger-Gymnasium",
+    "shortName": "706"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278273",
+    "latitude": 195526224,
+    "longitude": 36589290,
+    "name": "Gerhart-Hauptmann-Schule",
+    "shortName": "7018"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277939",
+    "latitude": 195513198,
+    "longitude": 36588258,
+    "name": "Poppenrade",
+    "shortName": "705"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277921",
+    "latitude": 195510101,
+    "longitude": 36627034,
+    "name": "Wohldkoppel",
+    "shortName": "663"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277938",
+    "latitude": 195514716,
+    "longitude": 36607222,
+    "name": "Grabastraße",
+    "shortName": "704"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281057",
+    "latitude": 195517263,
+    "longitude": 36614619,
+    "name": "Federmannstraße",
+    "shortName": "75"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277934",
+    "latitude": 195527001,
+    "longitude": 36572547,
+    "name": "Ernestinenstraße",
+    "shortName": "700"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277680",
+    "latitude": 195541937,
+    "longitude": 36581777,
+    "name": "Große Ziegelstraße",
+    "shortName": "93"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277681",
+    "latitude": 195549117,
+    "longitude": 36597577,
+    "name": "Franziusallee",
+    "shortName": "94"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277937",
+    "latitude": 195530409,
+    "longitude": 36611214,
+    "name": "Stadtrat-Hahn-Park",
+    "shortName": "703"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277941",
+    "latitude": 195530995,
+    "longitude": 36625289,
+    "name": "Schwanenseeplatz",
+    "shortName": "720"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278266",
+    "latitude": 195552473,
+    "longitude": 36614900,
+    "name": "Ellerbeker Schule",
+    "shortName": "7011"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281053",
+    "latitude": 195552523,
+    "longitude": 36612504,
+    "name": "Ellerbeker Schule",
+    "shortName": "69"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277942",
+    "latitude": 195525225,
+    "longitude": 36640467,
+    "name": "Selenter Straße",
+    "shortName": "721"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277943",
+    "latitude": 195543578,
+    "longitude": 36646684,
+    "name": "Philipp-Reis-Weg",
+    "shortName": "728"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277944",
+    "latitude": 195535299,
+    "longitude": 36642152,
+    "name": "August-Sievers-Ring",
+    "shortName": "729"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277940",
+    "latitude": 195549408,
+    "longitude": 36639512,
+    "name": "Klausdorfer Weg",
+    "shortName": "707"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277945",
+    "latitude": 195532691,
+    "longitude": 36684221,
+    "name": "Ostfriedhof",
+    "shortName": "731"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278303",
+    "latitude": 195572174,
+    "longitude": 36173948,
+    "name": "Thor-Heyerdahl-Gymnasium (BZM)",
+    "shortName": "7048"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281060",
+    "latitude": 196054450,
+    "longitude": 36169149,
+    "name": "Wasserwerk",
+    "shortName": "5095"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278078",
+    "latitude": 196078554,
+    "longitude": 36168826,
+    "name": "Krusendorf",
+    "shortName": "5079"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277715",
+    "latitude": 195821687,
+    "longitude": 36523346,
+    "name": "Dreikronen",
+    "shortName": "172"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277722",
+    "latitude": 195822362,
+    "longitude": 36624313,
+    "name": "Brauner Berg",
+    "shortName": "179"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277725",
+    "latitude": 195821571,
+    "longitude": 36565912,
+    "name": "Bachweg",
+    "shortName": "182"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277799",
+    "latitude": 195591989,
+    "longitude": 36437666,
+    "name": "Hauptfeuerwache",
+    "shortName": "349"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277759",
+    "latitude": 195690237,
+    "longitude": 36383496,
+    "name": "Ernst-Barlach-Gymnasium",
+    "shortName": "219"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277787",
+    "latitude": 195593836,
+    "longitude": 36307382,
+    "name": "Rathaus Kronshagen",
+    "shortName": "304"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277814",
+    "latitude": 195573734,
+    "longitude": 36208851,
+    "name": "Stockholmstraße",
+    "shortName": "365"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277820",
+    "latitude": 195569088,
+    "longitude": 36194221,
+    "name": "Bergenring",
+    "shortName": "371"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277815",
+    "latitude": 195587304,
+    "longitude": 36196800,
+    "name": "Narvikstraße",
+    "shortName": "366"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277813",
+    "latitude": 195570947,
+    "longitude": 36226129,
+    "name": "Göteborgring",
+    "shortName": "364"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278294",
+    "latitude": 195562849,
+    "longitude": 36222225,
+    "name": "Schule am Göteborgring",
+    "shortName": "7039"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277802",
+    "latitude": 195568474,
+    "longitude": 36252920,
+    "name": "Am Forsthaus",
+    "shortName": "353"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277801",
+    "latitude": 195565571,
+    "longitude": 36286481,
+    "name": "Daimlerstraße",
+    "shortName": "352"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277800",
+    "latitude": 195567707,
+    "longitude": 36303951,
+    "name": "Wittland",
+    "shortName": "351"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277792",
+    "latitude": 195595956,
+    "longitude": 36271765,
+    "name": "Heischberg",
+    "shortName": "310"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277793",
+    "latitude": 195609094,
+    "longitude": 36269352,
+    "name": "Steindamm",
+    "shortName": "311"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277794",
+    "latitude": 195617772,
+    "longitude": 36286950,
+    "name": "Suchsdorfer Weg",
+    "shortName": "312"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277795",
+    "latitude": 195624525,
+    "longitude": 36292258,
+    "name": "Schulzentrum, Kronshagen",
+    "shortName": "313"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277791",
+    "latitude": 195618182,
+    "longitude": 36304433,
+    "name": "Eichkoppelweg",
+    "shortName": "309"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278254",
+    "latitude": 195678705,
+    "longitude": 36257709,
+    "name": "An der Au",
+    "shortName": "97"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280953",
+    "latitude": 195664945,
+    "longitude": 36257545,
+    "name": "Lehmkoppel",
+    "shortName": "98"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280954",
+    "latitude": 195659224,
+    "longitude": 36291559,
+    "name": "Holmredder",
+    "shortName": "99"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281071",
+    "latitude": 195674305,
+    "longitude": 36284441,
+    "name": "Möllenholt",
+    "shortName": "96"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277771",
+    "latitude": 195683375,
+    "longitude": 36305437,
+    "name": "Nienbrügger Weg",
+    "shortName": "257"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277778",
+    "latitude": 195598362,
+    "longitude": 36399397,
+    "name": "Eckernförder Straße",
+    "shortName": "264"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277786",
+    "latitude": 195589086,
+    "longitude": 36319937,
+    "name": "Villenweg",
+    "shortName": "303"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277785",
+    "latitude": 195582694,
+    "longitude": 36343471,
+    "name": "Königstein",
+    "shortName": "302"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281201",
+    "latitude": 195617037,
+    "longitude": 36322485,
+    "name": "Abelweg",
+    "shortName": "314"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277775",
+    "latitude": 195597267,
+    "longitude": 36335204,
+    "name": "Friedenskamp",
+    "shortName": "261"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277788",
+    "latitude": 195614171,
+    "longitude": 36314466,
+    "name": "Brüder-Grimm-Schule",
+    "shortName": "306"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277764",
+    "latitude": 195599307,
+    "longitude": 36405089,
+    "name": "Eichhofstraße",
+    "shortName": "247"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278268",
+    "latitude": 195561733,
+    "longitude": 36381784,
+    "name": "Friedrich-Junge-Schule (GEM) Schrev.",
+    "shortName": "7013"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277784",
+    "latitude": 195579348,
+    "longitude": 36377639,
+    "name": "Dehnckestraße",
+    "shortName": "301"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277798",
+    "latitude": 195569513,
+    "longitude": 36409086,
+    "name": "Kronshagener Weg",
+    "shortName": "348"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277783",
+    "latitude": 195570679,
+    "longitude": 36406467,
+    "name": "Westring",
+    "shortName": "300"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277766",
+    "latitude": 195561179,
+    "longitude": 36432755,
+    "name": "Wilhelmplatz",
+    "shortName": "250"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277776",
+    "latitude": 195571747,
+    "longitude": 36435814,
+    "name": "Arndtplatz",
+    "shortName": "262"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277767",
+    "latitude": 195580990,
+    "longitude": 36425751,
+    "name": "Prof.-Peters-Platz",
+    "shortName": "251"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277774",
+    "latitude": 195601324,
+    "longitude": 36375412,
+    "name": "Eichhof",
+    "shortName": "260"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277765",
+    "latitude": 195621277,
+    "longitude": 36376233,
+    "name": "Nordmark-Sportfeld",
+    "shortName": "248"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277656",
+    "latitude": 195596993,
+    "longitude": 36422605,
+    "name": "Christian-Kruse-Straße",
+    "shortName": "35"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277756",
+    "latitude": 195623980,
+    "longitude": 36424682,
+    "name": "I. P. N.",
+    "shortName": "216"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277789",
+    "latitude": 195628174,
+    "longitude": 36329780,
+    "name": "Bundeswehrkrankenhaus",
+    "shortName": "307"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277790",
+    "latitude": 195634329,
+    "longitude": 36335198,
+    "name": "A.-Schweitzer-Straße",
+    "shortName": "308"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277769",
+    "latitude": 195639097,
+    "longitude": 36353922,
+    "name": "Johann-Fleck-Straße",
+    "shortName": "254"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277768",
+    "latitude": 195629274,
+    "longitude": 36365834,
+    "name": "Kopperpahler Teich",
+    "shortName": "253"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277763",
+    "latitude": 195651193,
+    "longitude": 36340758,
+    "name": "Vulkanweg",
+    "shortName": "225"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280978",
+    "latitude": 195671352,
+    "longitude": 36320015,
+    "name": "Schneiderkamp",
+    "shortName": "1256"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277770",
+    "latitude": 195671143,
+    "longitude": 36320387,
+    "name": "Schneiderkamp",
+    "shortName": "256"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277780",
+    "latitude": 195660068,
+    "longitude": 36331665,
+    "name": "Bahnhof, Suchsdorf",
+    "shortName": "266"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277760",
+    "latitude": 195660261,
+    "longitude": 36369194,
+    "name": "Mangoldtstraße",
+    "shortName": "220"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277758",
+    "latitude": 195641780,
+    "longitude": 36391567,
+    "name": "Leibnizstraße",
+    "shortName": "218"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277757",
+    "latitude": 195635545,
+    "longitude": 36399869,
+    "name": "Uni-Sportstätten",
+    "shortName": "217"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278259",
+    "latitude": 195636155,
+    "longitude": 36399411,
+    "name": "Schwimmhalle Uni",
+    "shortName": "7004"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277761",
+    "latitude": 195647553,
+    "longitude": 36380370,
+    "name": "Bremerskamp",
+    "shortName": "221"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277781",
+    "latitude": 195646512,
+    "longitude": 36401824,
+    "name": "Universitätsbibliothek",
+    "shortName": "267"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277782",
+    "latitude": 195650166,
+    "longitude": 36407508,
+    "name": "Botanischer Garten",
+    "shortName": "268"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277747",
+    "latitude": 195679535,
+    "longitude": 36383037,
+    "name": "Torfende",
+    "shortName": "207"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277762",
+    "latitude": 195682236,
+    "longitude": 36374528,
+    "name": "Rehbenitzwinkel",
+    "shortName": "222"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277749",
+    "latitude": 195685120,
+    "longitude": 36404158,
+    "name": "Woltersweg",
+    "shortName": "209"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277744",
+    "latitude": 195674639,
+    "longitude": 36433989,
+    "name": "Steenbeker Weg",
+    "shortName": "204"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277746",
+    "latitude": 195675458,
+    "longitude": 36418379,
+    "name": "Klinik Lubinus",
+    "shortName": "206"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278299",
+    "latitude": 195676005,
+    "longitude": 36423149,
+    "name": "Friedrich-Junge-Gemeinschaftsschule, Wik",
+    "shortName": "7044"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277748",
+    "latitude": 195683407,
+    "longitude": 36423445,
+    "name": "Gurlittstraße",
+    "shortName": "208"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277773",
+    "latitude": 195702415,
+    "longitude": 36271868,
+    "name": "Rungholtplatz",
+    "shortName": "259"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277772",
+    "latitude": 195693086,
+    "longitude": 36291269,
+    "name": "Sylter Bogen",
+    "shortName": "258"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277751",
+    "latitude": 195696549,
+    "longitude": 36404682,
+    "name": "Frerich-Frerichs-Allee",
+    "shortName": "211"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277752",
+    "latitude": 195704640,
+    "longitude": 36392521,
+    "name": "Wiesenweg",
+    "shortName": "212"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277753",
+    "latitude": 195712071,
+    "longitude": 36384038,
+    "name": "Bahnübergang",
+    "shortName": "213"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280975",
+    "latitude": 195719761,
+    "longitude": 36376750,
+    "name": "Erlenkampsee",
+    "shortName": "662"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277750",
+    "latitude": 195692336,
+    "longitude": 36408919,
+    "name": "Wenrade",
+    "shortName": "210"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277754",
+    "latitude": 195724584,
+    "longitude": 36375126,
+    "name": "Tannenberg",
+    "shortName": "214"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277700",
+    "latitude": 195689154,
+    "longitude": 36469496,
+    "name": "Knorrstraße",
+    "shortName": "155"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278139",
+    "latitude": 195690915,
+    "longitude": 36485638,
+    "name": "Petruskirche",
+    "shortName": "113"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277643",
+    "latitude": 195591567,
+    "longitude": 36503769,
+    "name": "Unikliniken",
+    "shortName": "14"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277644",
+    "latitude": 195607127,
+    "longitude": 36503506,
+    "name": "Feldstr./Waitzstr.",
+    "shortName": "15"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277684",
+    "latitude": 195625999,
+    "longitude": 36563795,
+    "name": "Kiellinie",
+    "shortName": "101"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277653",
+    "latitude": 195591646,
+    "longitude": 36461289,
+    "name": "Lehmberg",
+    "shortName": "32"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277652",
+    "latitude": 195579013,
+    "longitude": 36461228,
+    "name": "Kunsthochschule",
+    "shortName": "31"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281103",
+    "latitude": 195578985,
+    "longitude": 36461359,
+    "name": "Kunsthochschule",
+    "shortName": "81"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277651",
+    "latitude": 195564809,
+    "longitude": 36477968,
+    "name": "Rathaus/Opernhaus",
+    "shortName": "30"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278140",
+    "latitude": 195560010,
+    "longitude": 36491751,
+    "name": "Holstenbrücke  B",
+    "shortName": "117"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278148",
+    "latitude": 195560716,
+    "longitude": 36490460,
+    "name": "Holstenbrücke  A",
+    "shortName": "1117"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281192",
+    "latitude": 195564765,
+    "longitude": 36488631,
+    "name": "Martensdamm",
+    "shortName": "28"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277647",
+    "latitude": 195572474,
+    "longitude": 36487849,
+    "name": "Lorentzendamm",
+    "shortName": "22"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277648",
+    "latitude": 195588332,
+    "longitude": 36474323,
+    "name": "Dreiecksplatz",
+    "shortName": "23"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278309",
+    "latitude": 195588753,
+    "longitude": 36476211,
+    "name": "Dreiecksplatz  (WAD)",
+    "shortName": "7057"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277655",
+    "latitude": 195594795,
+    "longitude": 36443581,
+    "name": "Hansastraße",
+    "shortName": "34"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277657",
+    "latitude": 195604197,
+    "longitude": 36443704,
+    "name": "Goetheschule",
+    "shortName": "36"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277654",
+    "latitude": 195604962,
+    "longitude": 36466722,
+    "name": "Alsenstraße",
+    "shortName": "33"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277755",
+    "latitude": 195620932,
+    "longitude": 36442691,
+    "name": "Universität",
+    "shortName": "215"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277777",
+    "latitude": 195619472,
+    "longitude": 36450884,
+    "name": "Universität/Westring",
+    "shortName": "263"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281078",
+    "latitude": 195615138,
+    "longitude": 36467334,
+    "name": "Samwerstraße",
+    "shortName": "343"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277650",
+    "latitude": 195607217,
+    "longitude": 36480572,
+    "name": "Waitzstr./Holtenauer Str.",
+    "shortName": "25"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278260",
+    "latitude": 195607408,
+    "longitude": 36491024,
+    "name": "Turnhalle Reventlou",
+    "shortName": "7005"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277649",
+    "latitude": 195598065,
+    "longitude": 36477500,
+    "name": "Schauenburgerstraße",
+    "shortName": "24"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277695",
+    "latitude": 195620408,
+    "longitude": 36481635,
+    "name": "Schauspielhaus",
+    "shortName": "150"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281157",
+    "latitude": 195611232,
+    "longitude": 36497598,
+    "name": "Beselerallee",
+    "shortName": "27"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277635",
+    "latitude": 195592065,
+    "longitude": 36534864,
+    "name": "Schwanenweg",
+    "shortName": "5"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277641",
+    "latitude": 195575270,
+    "longitude": 36516788,
+    "name": "Schloßgarten",
+    "shortName": "12"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277633",
+    "latitude": 195564244,
+    "longitude": 36516623,
+    "name": "Seegarten, Ostseekai",
+    "shortName": "3"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281198",
+    "latitude": 195570384,
+    "longitude": 36510336,
+    "name": "Jensendamm",
+    "shortName": "29"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277642",
+    "latitude": 195581625,
+    "longitude": 36504507,
+    "name": "Hospitalstraße",
+    "shortName": "13"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277634",
+    "latitude": 195577002,
+    "longitude": 36523816,
+    "name": "Kunsthalle",
+    "shortName": "4"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277638",
+    "latitude": 195608193,
+    "longitude": 36523767,
+    "name": "Niemannsweg",
+    "shortName": "8"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277688",
+    "latitude": 195621939,
+    "longitude": 36503934,
+    "name": "Wrangelstraße",
+    "shortName": "105"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277637",
+    "latitude": 195605141,
+    "longitude": 36544119,
+    "name": "Landtag",
+    "shortName": "7"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277636",
+    "latitude": 195602034,
+    "longitude": 36545445,
+    "name": "Reventloubrücke",
+    "shortName": "6"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277683",
+    "latitude": 195615001,
+    "longitude": 36557424,
+    "name": "Institut für Weltwirtschaft",
+    "shortName": "100"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277699",
+    "latitude": 195677799,
+    "longitude": 36469390,
+    "name": "Elendsredder",
+    "shortName": "154"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277742",
+    "latitude": 195640240,
+    "longitude": 36461675,
+    "name": "Nordfriedhof",
+    "shortName": "202"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281209",
+    "latitude": 195651435,
+    "longitude": 36454363,
+    "name": "Holstein Stadion",
+    "shortName": "9000"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277741",
+    "latitude": 195628078,
+    "longitude": 36455275,
+    "name": "Rankestraße",
+    "shortName": "201"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277696",
+    "latitude": 195630458,
+    "longitude": 36480439,
+    "name": "Hardenbergstraße",
+    "shortName": "151"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277689",
+    "latitude": 195638249,
+    "longitude": 36502899,
+    "name": "Yorckstraße",
+    "shortName": "106"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277697",
+    "latitude": 195644546,
+    "longitude": 36477703,
+    "name": "Belvedere",
+    "shortName": "152"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277690",
+    "latitude": 195653782,
+    "longitude": 36500465,
+    "name": "Düvelsbeker Weg",
+    "shortName": "107"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278138",
+    "latitude": 195653830,
+    "longitude": 36500059,
+    "name": "Hebbelschule",
+    "shortName": "110"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277743",
+    "latitude": 195661635,
+    "longitude": 36451373,
+    "name": "Am Stadion",
+    "shortName": "203"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277745",
+    "latitude": 195676536,
+    "longitude": 36446903,
+    "name": "Friedrich-Junge-Schule Wik",
+    "shortName": "205"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280977",
+    "latitude": 195679590,
+    "longitude": 36482982,
+    "name": "Mercatorstraße",
+    "shortName": "1109"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277698",
+    "latitude": 195658673,
+    "longitude": 36476429,
+    "name": "Hanssenstraße",
+    "shortName": "153"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278005",
+    "latitude": 195670421,
+    "longitude": 36475136,
+    "name": "Schulredder",
+    "shortName": "832"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278276",
+    "latitude": 195657826,
+    "longitude": 36498927,
+    "name": "Hebbelschule",
+    "shortName": "7021"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277691",
+    "latitude": 195667510,
+    "longitude": 36493030,
+    "name": "Homannstraße",
+    "shortName": "108"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277692",
+    "latitude": 195676665,
+    "longitude": 36487745,
+    "name": "Mercatorstraße",
+    "shortName": "109"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281167",
+    "latitude": 195675864,
+    "longitude": 36499512,
+    "name": "Flandernbunker",
+    "shortName": "130"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277687",
+    "latitude": 195658086,
+    "longitude": 36515605,
+    "name": "Diederichsenpark",
+    "shortName": "104"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277686",
+    "latitude": 195642717,
+    "longitude": 36532266,
+    "name": "Roonstraße",
+    "shortName": "103"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278290",
+    "latitude": 195638825,
+    "longitude": 36553288,
+    "name": "Privatschule Düsternbrook",
+    "shortName": "7035"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277685",
+    "latitude": 195638889,
+    "longitude": 36554246,
+    "name": "Bellevue/Lindenallee",
+    "shortName": "102"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277976",
+    "latitude": 195564453,
+    "longitude": 36610896,
+    "name": "Ellerbeker Markt",
+    "shortName": "800"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278298",
+    "latitude": 195562569,
+    "longitude": 36628345,
+    "name": "Theodor-Storm-Schule",
+    "shortName": "7043"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277977",
+    "latitude": 195569353,
+    "longitude": 36621001,
+    "name": "Kieler Kuhle",
+    "shortName": "801"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281102",
+    "latitude": 195590107,
+    "longitude": 36642350,
+    "name": "Schwentinestraße",
+    "shortName": "779"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278301",
+    "latitude": 195570836,
+    "longitude": 36644377,
+    "name": "Gymnasium Wellingdorf",
+    "shortName": "7046"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281085",
+    "latitude": 195571074,
+    "longitude": 36643884,
+    "name": "Seefischmarkt",
+    "shortName": "19"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277978",
+    "latitude": 195570555,
+    "longitude": 36653714,
+    "name": "Wischhofstraße",
+    "shortName": "802"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277965",
+    "latitude": 195587175,
+    "longitude": 36656886,
+    "name": "Grenzstraße",
+    "shortName": "759"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277979",
+    "latitude": 195574049,
+    "longitude": 36670988,
+    "name": "Wellingdorf",
+    "shortName": "803"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277980",
+    "latitude": 195585061,
+    "longitude": 36685982,
+    "name": "Tiefe Allee",
+    "shortName": "804"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277958",
+    "latitude": 195597441,
+    "longitude": 36657642,
+    "name": "Fachhochschule",
+    "shortName": "750"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277959",
+    "latitude": 195614048,
+    "longitude": 36663203,
+    "name": "Salzredder",
+    "shortName": "751"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277961",
+    "latitude": 195612368,
+    "longitude": 36690126,
+    "name": "Johannisburger Straße",
+    "shortName": "754"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277982",
+    "latitude": 195621450,
+    "longitude": 36683248,
+    "name": "Hermannstraße",
+    "shortName": "806"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281104",
+    "latitude": 195607180,
+    "longitude": 36686694,
+    "name": "Lüderitzstraße",
+    "shortName": "850"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278308",
+    "latitude": 195596872,
+    "longitude": 36674847,
+    "name": "Schule Andreas-Gayk",
+    "shortName": "7056"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277963",
+    "latitude": 195594038,
+    "longitude": 36670215,
+    "name": "Boksberg",
+    "shortName": "757"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277962",
+    "latitude": 195597205,
+    "longitude": 36681059,
+    "name": "Ivensring",
+    "shortName": "756"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277964",
+    "latitude": 195594641,
+    "longitude": 36692929,
+    "name": "Poggendörper Weg",
+    "shortName": "758"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277983",
+    "latitude": 195635744,
+    "longitude": 36671883,
+    "name": "Hasselfelde",
+    "shortName": "807"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277984",
+    "latitude": 195653822,
+    "longitude": 36674622,
+    "name": "Gänsekrug",
+    "shortName": "808"
+  },
+  {
+    "category": "other",
+    "id": "60837103646281143",
+    "latitude": 195655527,
+    "longitude": 36696573,
+    "name": "Mönkeberg, Gemeinde",
+    "shortName": "829"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277985",
+    "latitude": 195660839,
+    "longitude": 36692077,
+    "name": "Am Eksol, Mön",
+    "shortName": "809"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277701",
+    "latitude": 195698637,
+    "longitude": 36466881,
+    "name": "Schleusenstraße",
+    "shortName": "156"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278296",
+    "latitude": 195690894,
+    "longitude": 36464971,
+    "name": "Schule am Sonderburger Platz",
+    "shortName": "7041"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277693",
+    "latitude": 195691706,
+    "longitude": 36480016,
+    "name": "Adalbertstraße",
+    "shortName": "111"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277702",
+    "latitude": 195702318,
+    "longitude": 36471689,
+    "name": "Auberg",
+    "shortName": "157"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277694",
+    "latitude": 195696643,
+    "longitude": 36496794,
+    "name": "Wik, Herthastraße",
+    "shortName": "112"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277703",
+    "latitude": 195715414,
+    "longitude": 36473302,
+    "name": "Wik, Kanal",
+    "shortName": "158"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281168",
+    "latitude": 195712044,
+    "longitude": 36492288,
+    "name": "Maschinenmuseum",
+    "shortName": "131"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277707",
+    "latitude": 195728537,
+    "longitude": 36469151,
+    "name": "Gravensteiner Straße",
+    "shortName": "162"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277704",
+    "latitude": 195746771,
+    "longitude": 36468023,
+    "name": "Immelmannstraße",
+    "shortName": "159"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277708",
+    "latitude": 195729887,
+    "longitude": 36485851,
+    "name": "Jaegerallee",
+    "shortName": "163"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277706",
+    "latitude": 195738235,
+    "longitude": 36471386,
+    "name": "Nixenweg",
+    "shortName": "161"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277713",
+    "latitude": 195739176,
+    "longitude": 36497802,
+    "name": "Apenrader Straße",
+    "shortName": "168"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277705",
+    "latitude": 195745504,
+    "longitude": 36474779,
+    "name": "Richthofenstraße",
+    "shortName": "160"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277709",
+    "latitude": 195731490,
+    "longitude": 36512204,
+    "name": "Schleuse",
+    "shortName": "164"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277710",
+    "latitude": 195728648,
+    "longitude": 36531038,
+    "name": "Kastanienallee",
+    "shortName": "165"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277711",
+    "latitude": 195735051,
+    "longitude": 36525904,
+    "name": "Grimmstraße",
+    "shortName": "166"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278279",
+    "latitude": 195743234,
+    "longitude": 36511899,
+    "name": "Grundschule Holtenau",
+    "shortName": "7024"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277712",
+    "latitude": 195741187,
+    "longitude": 36513292,
+    "name": "Holtenau, Schule",
+    "shortName": "167"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278263",
+    "latitude": 195780903,
+    "longitude": 36472444,
+    "name": "Altenholz Stift, Gymnasium",
+    "shortName": "7008"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277714",
+    "latitude": 195779250,
+    "longitude": 36493527,
+    "name": "Stettiner Weg",
+    "shortName": "171"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277739",
+    "latitude": 195788227,
+    "longitude": 36493211,
+    "name": "Ostpreußenplatz",
+    "shortName": "197"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278052",
+    "latitude": 195812791,
+    "longitude": 36487884,
+    "name": "Altenholz Räucherei",
+    "shortName": "5051"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278051",
+    "latitude": 195792036,
+    "longitude": 36473638,
+    "name": "Dorfteich",
+    "shortName": "5050"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281061",
+    "latitude": 195791369,
+    "longitude": 36496316,
+    "name": "Rathaus, Altenholz",
+    "shortName": "5096"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277716",
+    "latitude": 195784226,
+    "longitude": 36518439,
+    "name": "Flughafen Kiel",
+    "shortName": "173"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277717",
+    "latitude": 195785029,
+    "longitude": 36565893,
+    "name": "Schusterkrug",
+    "shortName": "174"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277718",
+    "latitude": 195792669,
+    "longitude": 36591849,
+    "name": "Prieser Strand",
+    "shortName": "175"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277724",
+    "latitude": 195807468,
+    "longitude": 36581379,
+    "name": "Fehrsstraße",
+    "shortName": "181"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277726",
+    "latitude": 195819456,
+    "longitude": 36592819,
+    "name": "Eiche",
+    "shortName": "183"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277719",
+    "latitude": 195802482,
+    "longitude": 36615042,
+    "name": "Lindenauwerft",
+    "shortName": "176"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277720",
+    "latitude": 195810892,
+    "longitude": 36635279,
+    "name": "An der Schanze",
+    "shortName": "177"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277721",
+    "latitude": 195810019,
+    "longitude": 36646938,
+    "name": "Falckensteiner Straße",
+    "shortName": "178"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278066",
+    "latitude": 196000775,
+    "longitude": 36248183,
+    "name": "Birkenmoor",
+    "shortName": "5067"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280979",
+    "latitude": 196021664,
+    "longitude": 36207264,
+    "name": "Birkenmoor, Steen",
+    "shortName": "5004"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280980",
+    "latitude": 196082526,
+    "longitude": 36185464,
+    "name": "Krusendorf, Kirche",
+    "shortName": "6047"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281197",
+    "latitude": 196044000,
+    "longitude": 36189180,
+    "name": "Birkenmoor, Feldweg",
+    "shortName": "5107"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278054",
+    "latitude": 195839288,
+    "longitude": 36424797,
+    "name": "Altenholz, Schule",
+    "shortName": "5054"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278265",
+    "latitude": 195839850,
+    "longitude": 36425282,
+    "name": "Altenholz Klausdorf, Claus-Rixen-Schule",
+    "shortName": "7010"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278055",
+    "latitude": 195849245,
+    "longitude": 36436334,
+    "name": "Lindenallee",
+    "shortName": "5055"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278065",
+    "latitude": 196041141,
+    "longitude": 36414645,
+    "name": "Sprenge",
+    "shortName": "5066"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280981",
+    "latitude": 196036462,
+    "longitude": 36433779,
+    "name": "Sprenge (K 19)",
+    "shortName": "6084"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278067",
+    "latitude": 196065829,
+    "longitude": 36427030,
+    "name": "Mariannenhof",
+    "shortName": "5068"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277728",
+    "latitude": 195834692,
+    "longitude": 36567137,
+    "name": "Hohenleuchte",
+    "shortName": "185"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278053",
+    "latitude": 195822036,
+    "longitude": 36444449,
+    "name": "Bahnübergang",
+    "shortName": "5053"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278056",
+    "latitude": 195846164,
+    "longitude": 36455288,
+    "name": "Dataport",
+    "shortName": "5056"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278057",
+    "latitude": 195869748,
+    "longitude": 36451270,
+    "name": "Alter Kieler Weg",
+    "shortName": "5058"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281106",
+    "latitude": 195877242,
+    "longitude": 36453786,
+    "name": "Altenholz-Klausdorf, Freesenberg",
+    "shortName": "5057"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278058",
+    "latitude": 195882101,
+    "longitude": 36455570,
+    "name": "Lehmkaten",
+    "shortName": "5059"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278059",
+    "latitude": 195927877,
+    "longitude": 36459993,
+    "name": "Eiche, D'hagen",
+    "shortName": "5060"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278060",
+    "latitude": 195943660,
+    "longitude": 36472837,
+    "name": "Gemeinde, D'hagen",
+    "shortName": "5061"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278079",
+    "latitude": 195938692,
+    "longitude": 36475007,
+    "name": "Strander Straße",
+    "shortName": "5080"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278080",
+    "latitude": 195948178,
+    "longitude": 36490610,
+    "name": "Katharinenberg",
+    "shortName": "5081"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277731",
+    "latitude": 195887714,
+    "longitude": 36606946,
+    "name": "Schilksee Süd",
+    "shortName": "189"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277727",
+    "latitude": 195825177,
+    "longitude": 36581170,
+    "name": "Brahmsweg",
+    "shortName": "184"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277729",
+    "latitude": 195851287,
+    "longitude": 36592738,
+    "name": "Kreuzung Pries (K17)",
+    "shortName": "186"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278312",
+    "latitude": 195849930,
+    "longitude": 36597138,
+    "name": "Kreuzung Pries",
+    "shortName": "9999"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277738",
+    "latitude": 195825855,
+    "longitude": 36611746,
+    "name": "Redinskamp",
+    "shortName": "196"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278271",
+    "latitude": 195822407,
+    "longitude": 36603617,
+    "name": "Fritz-Reuter-Schule",
+    "shortName": "7016"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277740",
+    "latitude": 195832581,
+    "longitude": 36612886,
+    "name": "Claudiusstraße",
+    "shortName": "199"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277723",
+    "latitude": 195841499,
+    "longitude": 36604878,
+    "name": "Grüffkamp",
+    "shortName": "180"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277730",
+    "latitude": 195875015,
+    "longitude": 36596506,
+    "name": "Seekamp",
+    "shortName": "188"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281079",
+    "latitude": 195854457,
+    "longitude": 36670096,
+    "name": "Falckensteiner Strand",
+    "shortName": "2004"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278293",
+    "latitude": 195891384,
+    "longitude": 36609650,
+    "name": "Grundschule Schilksee",
+    "shortName": "7038"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277732",
+    "latitude": 195903185,
+    "longitude": 36615375,
+    "name": "Funkstellenweg",
+    "shortName": "190"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277733",
+    "latitude": 195915635,
+    "longitude": 36622896,
+    "name": "Schilksee, Kirche",
+    "shortName": "191"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277734",
+    "latitude": 195921983,
+    "longitude": 36619302,
+    "name": "Seestraße",
+    "shortName": "192"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277735",
+    "latitude": 195932654,
+    "longitude": 36605302,
+    "name": "Schilksee, Olympiazentrum",
+    "shortName": "193"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277736",
+    "latitude": 195944311,
+    "longitude": 36602666,
+    "name": "Drachenbahn",
+    "shortName": "194"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278258",
+    "latitude": 195945209,
+    "longitude": 36602022,
+    "name": "Schwimmhalle Schilksee",
+    "shortName": "7003"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278062",
+    "latitude": 195979947,
+    "longitude": 36461089,
+    "name": "Scharnhagen",
+    "shortName": "5063"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278061",
+    "latitude": 195966723,
+    "longitude": 36473791,
+    "name": "Funkstelle",
+    "shortName": "5062"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278063",
+    "latitude": 196007090,
+    "longitude": 36457687,
+    "name": "Rabendorf",
+    "shortName": "5064"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278081",
+    "latitude": 195967633,
+    "longitude": 36555881,
+    "name": "Eckhof",
+    "shortName": "5082"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278064",
+    "latitude": 196023606,
+    "longitude": 36452052,
+    "name": "Neubülk",
+    "shortName": "5065"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277737",
+    "latitude": 195973847,
+    "longitude": 36619986,
+    "name": "Strande",
+    "shortName": "195"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278082",
+    "latitude": 195985680,
+    "longitude": 36609673,
+    "name": "Siedlung, Strande",
+    "shortName": "5083"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278010",
+    "latitude": 195432052,
+    "longitude": 36846348,
+    "name": "Fernsichtweg",
+    "shortName": "5005"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278008",
+    "latitude": 195422612,
+    "longitude": 36800176,
+    "name": "Carl-Zeiss-Straße",
+    "shortName": "5002"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277933",
+    "latitude": 195399821,
+    "longitude": 36707045,
+    "name": "Kroog, Am Wellsee",
+    "shortName": "689"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281193",
+    "latitude": 195403671,
+    "longitude": 36722838,
+    "name": "Waldhof",
+    "shortName": "692"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277932",
+    "latitude": 195414363,
+    "longitude": 36706554,
+    "name": "Zeppelinring",
+    "shortName": "688"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281097",
+    "latitude": 195422489,
+    "longitude": 36710448,
+    "name": "Sonthofener Str.",
+    "shortName": "678"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281099",
+    "latitude": 195417522,
+    "longitude": 36734322,
+    "name": "Plötzen",
+    "shortName": "681"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281120",
+    "latitude": 195398562,
+    "longitude": 36738624,
+    "name": "Rarsrott",
+    "shortName": "697"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281098",
+    "latitude": 195408983,
+    "longitude": 36746542,
+    "name": "Partenkirchener Str.",
+    "shortName": "679"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278043",
+    "latitude": 195375916,
+    "longitude": 36915242,
+    "name": "Klosterforst",
+    "shortName": "5040"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278044",
+    "latitude": 195386114,
+    "longitude": 36926879,
+    "name": "Dütschfeldredder",
+    "shortName": "5041"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278045",
+    "latitude": 195393867,
+    "longitude": 36915383,
+    "name": "Hainbüschen",
+    "shortName": "5042"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278046",
+    "latitude": 195408302,
+    "longitude": 36899688,
+    "name": "Rosenthal",
+    "shortName": "5043"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278047",
+    "latitude": 195415183,
+    "longitude": 36902887,
+    "name": "Am Hang",
+    "shortName": "5044"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278042",
+    "latitude": 195387670,
+    "longitude": 36895477,
+    "name": "Isenwisch",
+    "shortName": "5039"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278083",
+    "latitude": 195427656,
+    "longitude": 36846064,
+    "name": "Timmsbrook",
+    "shortName": "5084"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278089",
+    "latitude": 195385690,
+    "longitude": 36891847,
+    "name": "Ebbenthorpstraße",
+    "shortName": "5091"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278090",
+    "latitude": 195396293,
+    "longitude": 36886053,
+    "name": "August-Streufert-Str.",
+    "shortName": "5092"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278095",
+    "latitude": 195397095,
+    "longitude": 36887515,
+    "name": "St.-Martins-Weg",
+    "shortName": "5100"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278012",
+    "latitude": 195419768,
+    "longitude": 36879558,
+    "name": "Zum See / Schule",
+    "shortName": "5007"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278013",
+    "latitude": 195423715,
+    "longitude": 36866626,
+    "name": "Raisdorf, Rathaus",
+    "shortName": "5008"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278011",
+    "latitude": 195414139,
+    "longitude": 36869488,
+    "name": "Raisdorf, Bahnhof",
+    "shortName": "5006"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277956",
+    "latitude": 195464052,
+    "longitude": 36753201,
+    "name": "Abzweig Klausdorf",
+    "shortName": "742"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277927",
+    "latitude": 195435445,
+    "longitude": 36706271,
+    "name": "Krooger Kamp",
+    "shortName": "676"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281096",
+    "latitude": 195436796,
+    "longitude": 36711685,
+    "name": "Franzensbader Str.",
+    "shortName": "673"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277916",
+    "latitude": 195467757,
+    "longitude": 36704201,
+    "name": "Klosterweg",
+    "shortName": "656"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281069",
+    "latitude": 195463553,
+    "longitude": 36728742,
+    "name": "Liesenhörnweg",
+    "shortName": "16"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278006",
+    "latitude": 195435919,
+    "longitude": 36777046,
+    "name": "Henry-Dunant-Straße",
+    "shortName": "5000"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278049",
+    "latitude": 195451904,
+    "longitude": 36794919,
+    "name": "Oppendorfer Mühle",
+    "shortName": "5047"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278007",
+    "latitude": 195428782,
+    "longitude": 36784149,
+    "name": "Paradiesweg",
+    "shortName": "5001"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278015",
+    "latitude": 195438864,
+    "longitude": 36787852,
+    "name": "real",
+    "shortName": "5010"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278009",
+    "latitude": 195430868,
+    "longitude": 36819443,
+    "name": "Mergenthalerstraße",
+    "shortName": "5003"
+  },
+  {
+    "category": "other",
+    "id": "60837103646278048",
+    "latitude": 195440131,
+    "longitude": 36816284,
+    "name": "Lise-Meitner-Straße",
+    "shortName": "5046"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278014",
+    "latitude": 195435743,
+    "longitude": 36809178,
+    "name": "Dieselstraße",
+    "shortName": "5009"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277957",
+    "latitude": 195485422,
+    "longitude": 36766342,
+    "name": "Nadelberg",
+    "shortName": "743"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277955",
+    "latitude": 195490662,
+    "longitude": 36777326,
+    "name": "Klausdorf Schule",
+    "shortName": "741"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277952",
+    "latitude": 195512533,
+    "longitude": 36735855,
+    "name": "Südring",
+    "shortName": "738"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277951",
+    "latitude": 195521782,
+    "longitude": 36722875,
+    "name": "Rosenweg",
+    "shortName": "737"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277950",
+    "latitude": 195524937,
+    "longitude": 36753804,
+    "name": "Bachstraße",
+    "shortName": "736"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277948",
+    "latitude": 195554927,
+    "longitude": 36725069,
+    "name": "Rundweg",
+    "shortName": "734"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277949",
+    "latitude": 195537811,
+    "longitude": 36736766,
+    "name": "Feldkamp",
+    "shortName": "735"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277954",
+    "latitude": 195506214,
+    "longitude": 36773320,
+    "name": "Schulstraße",
+    "shortName": "740"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277953",
+    "latitude": 195513824,
+    "longitude": 36766680,
+    "name": "Klausdorfer Hof",
+    "shortName": "739"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281151",
+    "latitude": 195898122,
+    "longitude": 36970572,
+    "name": "Stein, Dorfplatz",
+    "shortName": "840"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277993",
+    "latitude": 195770644,
+    "longitude": 36829867,
+    "name": "Haffkamper Weg",
+    "shortName": "817"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277947",
+    "latitude": 195564164,
+    "longitude": 36713271,
+    "name": "Rosenfelder Straße",
+    "shortName": "733"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277946",
+    "latitude": 195571668,
+    "longitude": 36701456,
+    "name": "Flüggendorfer Straße",
+    "shortName": "732"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277966",
+    "latitude": 195586793,
+    "longitude": 36708284,
+    "name": "Schönkirchener Straße",
+    "shortName": "760"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277969",
+    "latitude": 195559862,
+    "longitude": 36765460,
+    "name": "Oppendorf",
+    "shortName": "763"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277968",
+    "latitude": 195570436,
+    "longitude": 36756902,
+    "name": "Trenntrader Weg",
+    "shortName": "762"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277967",
+    "latitude": 195580979,
+    "longitude": 36736005,
+    "name": "Kätnersredder",
+    "shortName": "761"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278300",
+    "latitude": 195609670,
+    "longitude": 36702865,
+    "name": "Toni-Jensen-Grundschule",
+    "shortName": "7045"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646281235",
+    "latitude": 195609668,
+    "longitude": 36702952,
+    "name": "Toni-Jensen-Schule",
+    "shortName": "7073"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277960",
+    "latitude": 195614837,
+    "longitude": 36707417,
+    "name": "Pillauer Straße",
+    "shortName": "753"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277986",
+    "latitude": 195672436,
+    "longitude": 36714632,
+    "name": "Hirschtal, Mönkeberg",
+    "shortName": "810"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277990",
+    "latitude": 195739728,
+    "longitude": 36766125,
+    "name": "Grasweg",
+    "shortName": "814"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277988",
+    "latitude": 195722573,
+    "longitude": 36732003,
+    "name": "Künstlermuseum",
+    "shortName": "812"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277987",
+    "latitude": 195705314,
+    "longitude": 36725682,
+    "name": "Kitzeberg",
+    "shortName": "811"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278147",
+    "latitude": 195727846,
+    "longitude": 36761530,
+    "name": "Schulzentrum Heikendorf",
+    "shortName": "828"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277989",
+    "latitude": 195734051,
+    "longitude": 36740111,
+    "name": "Rathaus Heikendorf",
+    "shortName": "813"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280973",
+    "latitude": 195747685,
+    "longitude": 36744062,
+    "name": "Laboer Weg",
+    "shortName": "618"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277991",
+    "latitude": 195747705,
+    "longitude": 36813237,
+    "name": "Stückenberg",
+    "shortName": "815"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278001",
+    "latitude": 195767705,
+    "longitude": 36734886,
+    "name": "Am Heidberg",
+    "shortName": "825"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278000",
+    "latitude": 195764176,
+    "longitude": 36759992,
+    "name": "Korügen",
+    "shortName": "824"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278002",
+    "latitude": 195757256,
+    "longitude": 36791370,
+    "name": "Rührsbrook",
+    "shortName": "826"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277992",
+    "latitude": 195758889,
+    "longitude": 36828609,
+    "name": "Silberturmer Weg",
+    "shortName": "816"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277994",
+    "latitude": 195791719,
+    "longitude": 36894583,
+    "name": "Brodersdorf",
+    "shortName": "818"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277995",
+    "latitude": 195808077,
+    "longitude": 36875455,
+    "name": "Neu Brodersdorf",
+    "shortName": "819"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278004",
+    "latitude": 195852918,
+    "longitude": 36791858,
+    "name": "Laboe, Hafen (Wende)",
+    "shortName": "830"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277998",
+    "latitude": 195852625,
+    "longitude": 36792320,
+    "name": "Laboe, Hafen",
+    "shortName": "822"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277997",
+    "latitude": 195850346,
+    "longitude": 36810555,
+    "name": "Laboe, Kirche",
+    "shortName": "821"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277999",
+    "latitude": 195846162,
+    "longitude": 36806778,
+    "name": "Steinkampberg",
+    "shortName": "823"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646277996",
+    "latitude": 195842520,
+    "longitude": 36824983,
+    "name": "Ostlandstraße",
+    "shortName": "820"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278003",
+    "latitude": 195835803,
+    "longitude": 36837879,
+    "name": "Brodersdorfer Weg",
+    "shortName": "827"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278076",
+    "latitude": 196092488,
+    "longitude": 36271596,
+    "name": "Surendorf",
+    "shortName": "5077"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278075",
+    "latitude": 196096399,
+    "longitude": 36286070,
+    "name": "Spritzenhaus, Surendorf",
+    "shortName": "5076"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278074",
+    "latitude": 196115495,
+    "longitude": 36359493,
+    "name": "Hohenhain",
+    "shortName": "5075"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278073",
+    "latitude": 196124229,
+    "longitude": 36378677,
+    "name": "Eckernholm",
+    "shortName": "5074"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646280982",
+    "latitude": 196126398,
+    "longitude": 36411465,
+    "name": "Lindenweg, Dänisch-Nienhof",
+    "shortName": "6086"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278072",
+    "latitude": 196124489,
+    "longitude": 36434271,
+    "name": "Dänisch Nienhof",
+    "shortName": "5073"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278071",
+    "latitude": 196118961,
+    "longitude": 36470569,
+    "name": "Harder, Dänisch Nienhof",
+    "shortName": "5072"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278069",
+    "latitude": 196092376,
+    "longitude": 36536822,
+    "name": "Marienfelde, Abzweig",
+    "shortName": "5070"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278068",
+    "latitude": 196095024,
+    "longitude": 36517541,
+    "name": "Stohl",
+    "shortName": "5069"
+  },
+  {
+    "category": "bus",
+    "id": "60837103646278070",
+    "latitude": 196117345,
+    "longitude": 36503850,
+    "name": "Krog",
+    "shortName": "5071"
+  }
+]}
