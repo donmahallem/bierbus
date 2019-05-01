@@ -27,7 +27,7 @@
     "pug-loader": "^2.4.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
-    "ts-loader": "^5.4.3",
+    "ts-loader": "^5.4.5",
     "tslint": "^5.16.0",
     "typescript": "^3.4.4",
     "webpack": "^4.30.0",
