@@ -1,0 +1,24 @@
+@import 'themeColors';
+
+$theme-font: verdana, sans-serif;
+
+body {
+  font: $theme-font;
+  background-color: $themeColor-Light;
+  margin:0px;
+  padding:0px;
+  h1, h2 {
+      color: $themeColor-Dark
+  }
+  map-root {
+    margin:0px;
+    padding:0px;
+    position: absolute;
+    background:$backgroundColor;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    @import "~leaflet/dist/leaflet.css";
+  }
+}

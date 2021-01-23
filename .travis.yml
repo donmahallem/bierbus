@@ -1,0 +1,24 @@
+language: node_js
+addons:
+  chrome: stable
+env:
+  matrix:
+  - TEST_SUITE=lint
+  - TEST_SUITE=build
+  - TEST_SUITE=unit
+node_js:
+- stable
+cache:
+  directories:
+  - node_modules
+script:
+- npm run test:$TEST_SUITE
+after_success:
+- ./coveralls_upload.sh
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  local_dir: dist/manniweb
+  on:
+    branch: master
