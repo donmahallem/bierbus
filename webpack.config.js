@@ -5,13 +5,15 @@ module.exports = {
     entry: './src/scripts/index.ts',
     plugins: [
         new HtmlWebpackPlugin({
-            template: "./src/pug/index.pug"
+            template: './src/pug/index.pug'
         }),
-        new CopyWebpackPlugin([{
-            from: './src/assets',
-            to: "./assets",
-            toType: "dir"
-        }])
+        new CopyWebpackPlugin({
+            patterns: [{
+                from: './src/assets',
+                to: './assets',
+                toType: 'dir'
+            }]
+        }),
     ],
     module: {
         rules: [
@@ -22,16 +24,16 @@ module.exports = {
             },
             {
                 test: /\.pug$/,
-                use: ["pug-loader"]
+                use: ['pug-loader']
             }, {
                 test: /\.(jpe?g|gif|png|svg|woff|ttf|wav|mp3)$/,
                 loader: 'file-loader'
             }, {
                 test: /\.scss$/,
                 use: [
-                    "style-loader", // creates style nodes from JS strings
-                    "css-loader", // translates CSS into CommonJS
-                    "sass-loader" // compiles Sass to CSS, using Node Sass by default
+                    'style-loader', // creates style nodes from JS strings
+                    'css-loader', // translates CSS into CommonJS
+                    'sass-loader' // compiles Sass to CSS, using Node Sass by default
                 ]
             }
         ]
