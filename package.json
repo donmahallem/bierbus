@@ -21,7 +21,7 @@
     "copy-webpack-plugin": "9.1.0",
     "css-loader": "6.9.1",
     "file-loader": "6.2.0",
-    "html-webpack-plugin": "5.6.0",
+    "html-webpack-plugin": "5.6.8",
     "node-sass": "7.0.3",
     "pug": "3.0.3",
     "pug-loader": "2.4.0",
